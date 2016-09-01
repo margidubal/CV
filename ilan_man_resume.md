@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style type="text/css">
-	.split-para      { display:block;margin:0px;}
-	.split-para span { display:block;float:right;width:25%;margin-left:20px;}</style>
-</head>
-<body link="blue">
 <h1>Ilan Man</h1><br>
 1000 North Duke St. &bull; Durham, NC &bull; 27701<br>
 917 941 7323 &bull; ilan.man@gmail.com<br>
@@ -75,5 +67,5 @@ Covering Data Science topics including Machine Learning and programming in R and
 ● Avid marathoner and triathlete, having completed multiple Half Iron Men and 100+ mile bicycle races
 ● Avid and active real estate investor; currently serving as treasurer and accountant for real estate partnership
 ● Interests: traveling, cooking, live music, reading, philosophy and current events
-</body>
-</html>
+
+
