@@ -14,6 +14,37 @@ ___
 </ul>
 ___
 <h3>Professional Experience</h3>
+<strong>Girl Develop it</strong> &nbsp;&nbsp; Jul 2016 - Present
+<em>Data Science Instructor</em> &nbsp;&nbsp; Durham, North Carolina
+
+Taught a 4 week Python for Data Science class. Each week we covered a new topic, motivated by a real data problem. Topics covered include:
+ul>
+<li>Python basics: lists, dictionaries, list comprehension, basic matrix algebra
+<li>Functions: Higher order functions (map, filter, reduce), recursion, lambda functions
+<li>Numpy: basic linear regression, linear algebra (inverses, transposes), numpy methods
+<li>Text Analysis: Analyzing tweet sentiment, string methods, basic I/O, intro to regex, intro to plotting
+</ul>
+
+<br>
+<strong>Automated Insights</strong> &nbsp;&nbsp; May 2016 - Aug 2016
+<em>Data Scientist</em> &nbsp;&nbsp; Durham, North Carolina
+
+Automated Insights is a Durham based startup focusing on automating reports and articles using Machine Learning and Natural Language Processing tools.
+<ul>
+<li>Started Analytics team
+ <ul>
+ <li>Created dashboards
+ <li>Performed cohort analysis on user subscriptions and churns
+ <li>Implemented an A/B testing framework, including multi-armed bandit algorithms
+ <li>Used Machine Learning models to mine user behavior data
+ </ul>
+<li>Performed Natural Language Processing and Generation on the Wordsmith product
+ <ul>
+ <li>Analyzed template generation engine for patterns and insights
+ </ul>
+</ul>
+
+<br>
 <strong>Squarespace</strong> &nbsp;&nbsp; May 2013 - Jul 2015  
 <em>Manager, Data Science</em> &nbsp;&nbsp; New York, New York 
 
