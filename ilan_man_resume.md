@@ -1,6 +1,6 @@
 # Ilan Man
-1000 North Duke St. &bull;Durham, NC &bull;27701<br>
-917 941 7323 &bull;ilan.man@gmail.com<br>
+1000 North Duke St. &bull; Durham, NC &bull; 27701<br>
+917 941 7323 &bull; ilan.man@gmail.com<br>
 <a href="http://www.ilanman.io">www.ilanman.io</a><br>
 ___
 <h3>Professional Profile</h3>
@@ -14,8 +14,8 @@ ___
 </ul>
 ___
 <h3>Professional Experience</h3>
-<strong>Squarespace</strong> <span>May 2013 - Jul 2015</span>  
-<em>Manager, Data Science</em> <span>New York, New York</span> 
+<strong>Squarespace</strong> &nbsp;&nbsp; May 2013 - Jul 2015  
+<em>Manager, Data Science</em> &nbsp;&nbsp; New York, New York 
 
 Squarespace's mission is to provide creative tools that help anyone give a voice to their ideas - from designers and engineers who create web and mobile experiences, to anyone putting a website together for the first time.<br>
 <ul>
@@ -30,8 +30,8 @@ Squarespace's mission is to provide creative tools that help anyone give a voice
 <li>Mentored junior Analytics team and led technical knowledge sharing sessions<br>
 </ul>
 <br>
-<strong>Metropolitan Telecommunications</strong> <span>Jan 2013 - May 2013</span>  
-<em>Data Scientist Consultant</em> <span>New York, New York</span>  
+<strong>Metropolitan Telecommunications</strong> &nbsp;&nbsp; Jan 2013 - May 2013  
+<em>Data Scientist Consultant</em> &nbsp;&nbsp; New York, New York  
 
 MetTel is a rapidly growing telecommunications company servicing enterprise-sized clients throughout the U.S.<br>
 <ul>
@@ -42,8 +42,8 @@ MetTel is a rapidly growing telecommunications company servicing enterprise-size
 <li>Created internal dashboards and reporting for senior management<br>
 </ul>
 <br>
-<strong>HowAboutWe</strong> <span>Sep 2012 - Jan 2013</span>  
-<em>Data Consultant</em> <span>Brooklyn, New York</span>  
+<strong>HowAboutWe</strong> &nbsp;&nbsp; Sep 2012 - Jan 2013  
+<em>Data Consultant</em> &nbsp;&nbsp; Brooklyn, New Yorki  
 
 HowAboutWe is an Internet dating startup helping users find others who share similar interests and activities.<br>
 <ul>
@@ -51,8 +51,8 @@ HowAboutWe is an Internet dating startup helping users find others who share sim
 <li>Analysis resulted in a deeper understanding of the correlation between user behavior and profile completion informing a series of A/B tests that significantly increased profile information, ultimately leading to users going on more successful dates<br>
 </ul>
 <br>
-<strong>Ernst &amp; Young</strong> <span>Sep 2010 - Jan 2013</span>  
-<em>Consultant, Financial Services Office</em> <span>New York, New York</span>  
+<strong>Ernst &amp; Young</strong> &nbsp;&nbsp; Sep 2010 - Jan 2013
+<em>Consultant, Financial Services Office</em> &nbsp;&nbsp; New York, New York
 
 Ernst &amp; Young is a “Big 4” professional services and accounting firm.<br>
 <ul>
@@ -63,8 +63,8 @@ Ernst &amp; Young is a “Big 4” professional services and accounting firm.<br
 <li>Managed complex and large projects, including budgeting hours, prioritizing milestones &amp; reporting to management<br>
 </ul>
 <br>
-<strong>Munich Reinsurance</strong> <span> Mar 2007 - Aug 2010  
-<em>Actuary, Individual Life Insurance</em> Toronto, Ontario
+<strong>Munich Reinsurance</strong> &nbsp;&nbsp; Mar 2007 - Aug 2010  
+<em>Actuary, Individual Life Insurance</em> &nbsp;&nbsp; Toronto, Ontario
 
 Munich Reinsurance is one of the world’s leading life and health reinsurers, and the largest reinsurer operating in Canada.<br>
 <ul>
@@ -73,13 +73,20 @@ Munich Reinsurance is one of the world’s leading life and health reinsurers, a
 </ul>
 ___
 <h3>Education and Achievements</h3>
-<li>Duke University, MSS Candidate Aug 2015 - Present
-Statistical Science
-University of Toronto, Honors, Bachelor of Science Sept 2002 – Dec 2006
-Actuarial Science and Statistics
-Fellow of the Canadian Institute of Actuaries, April 2011
-Fellow of the Society of Actuaries, December 2009
-
+<ul>
+<li>Duke University, MSS Candidate &nbsp;&nbsp; Aug 2015 - Present
+<ul>
+<li>Statistical Science
+</ul>
+<ul>
+<li>University of Toronto, Honors, Bachelor of Science &nbsp;&nbsp; Sept 2002 – Dec 2006
+</ul>
+<ul>
+<li>Actuarial Science and Statistics
+</ul>
+<li>Fellow of the Canadian Institute of Actuaries, April 2011
+<li>Fellow of the Society of Actuaries, December 2009
+</ul>
 ___
 <h3>Extracurricular Activities</h3>
 <ul>
