@@ -14,11 +14,11 @@ ___
 </ul>
 ___
 <h3>Professional Experience</h3>
-<strong>Girl Develop it</strong> &nbsp;&nbsp; Jul 2016 - Present
-<em>Data Science Instructor</em> &nbsp;&nbsp; Durham, North Carolina
+<strong>Girl Develop it</strong> &nbsp;&nbsp; Jul 2016 - Present  
+<em>Data Science Instructor</em> &nbsp;&nbsp; Durham, North Carolina  
 
 Taught a 4 week Python for Data Science class. Each week we covered a new topic, motivated by a real data problem. Topics covered include:
-ul>
+<ul>
 <li>Python basics: lists, dictionaries, list comprehension, basic matrix algebra
 <li>Functions: Higher order functions (map, filter, reduce), recursion, lambda functions
 <li>Numpy: basic linear regression, linear algebra (inverses, transposes), numpy methods
@@ -26,8 +26,8 @@ ul>
 </ul>
 
 <br>
-<strong>Automated Insights</strong> &nbsp;&nbsp; May 2016 - Aug 2016
-<em>Data Scientist</em> &nbsp;&nbsp; Durham, North Carolina
+<strong>Automated Insights</strong> &nbsp;&nbsp; May 2016 - Aug 2016  
+<em>Data Scientist</em> &nbsp;&nbsp; Durham, North Carolina  
 
 Automated Insights is a Durham based startup focusing on automating reports and articles using Machine Learning and Natural Language Processing tools.
 <ul>
