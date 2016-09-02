@@ -43,7 +43,7 @@ MetTel is a rapidly growing telecommunications company servicing enterprise-size
 </ul>
 <br>
 <strong>HowAboutWe</strong> &nbsp;&nbsp; Sep 2012 - Jan 2013  
-<em>Data Consultant</em> &nbsp;&nbsp; Brooklyn, New Yorki  
+<em>Data Consultant</em> &nbsp;&nbsp; Brooklyn, New York  
 
 HowAboutWe is an Internet dating startup helping users find others who share similar interests and activities.<br>
 <ul>
@@ -51,8 +51,8 @@ HowAboutWe is an Internet dating startup helping users find others who share sim
 <li>Analysis resulted in a deeper understanding of the correlation between user behavior and profile completion informing a series of A/B tests that significantly increased profile information, ultimately leading to users going on more successful dates<br>
 </ul>
 <br>
-<strong>Ernst &amp; Young</strong> &nbsp;&nbsp; Sep 2010 - Jan 2013
-<em>Consultant, Financial Services Office</em> &nbsp;&nbsp; New York, New York
+<strong>Ernst &amp; Young</strong> &nbsp;&nbsp; Sep 2010 - Jan 2013  
+<em>Consultant, Financial Services Office</em> &nbsp;&nbsp; New York, New York  
 
 Ernst &amp; Young is a “Big 4” professional services and accounting firm.<br>
 <ul>
@@ -78,9 +78,7 @@ ___
 <ul>
 <li>Statistical Science
 </ul>
-<ul>
 <li>University of Toronto, Honors, Bachelor of Science &nbsp;&nbsp; Sept 2002 – Dec 2006
-</ul>
 <ul>
 <li>Actuarial Science and Statistics
 </ul>
