@@ -1,68 +1,79 @@
 # Ilan Man
-1000 North Duke St. &bull; Durham, NC &bull; 27701<br>
-917 941 7323 &bull; ilan.man@gmail.com<br>
+1000 North Duke St. <li>Durham, NC <li>27701<br>
+917 941 7323 <li>ilan.man@gmail.com<br>
 <a href="http://www.ilanman.io">www.ilanman.io</a><br>
 ___
 <h3>Professional Profile</h3>
 Data Science professional with an entrepreneurial drive and technical expertise. Expert in Python, R, MySQL and data analysis, proficient in Javascript. Acute ability to interpret and analyze statistical trends. Avid blogger and presenter at technical, industry meet-ups. Former consultant with excellent communication and presentation skills. Self-starter who loves seeing projects through to the end. Thrives in challenging, dynamic and unstructured environments.
 ___
 <h3>Technical Skills</h3>
-&bull; Python (ipython/scipy/pandas/numpy/sci kit learn/matplotlib), R (ggplot2/caret/dplyr), Javascript/d3.js, HTML/CSS, MySQL, MongoDB, Spark<br>
-&bull; Statistical modeling and machine learning<br>
-&bull; User acquisition, A/B testing, churn, and customer LTV modeling
+<ul>
+<li>Python (ipython/scipy/pandas/numpy/sci kit learn/matplotlib), R (ggplot2/caret/dplyr), Javascript/d3.js, HTML/CSS, MySQL, MongoDB, Spark<br>
+<li>Statistical modeling and machine learning<br>
+<li>User acquisition, A/B testing, churn, and customer LTV modeling
+</ul>
 ___
 <h3>Professional Experience</h3>
 <strong>Squarespace</strong> <span>May 2013 - Jul 2015</span>  
 <em>Manager, Data Science</em> <span>New York, New York</span> 
 
 Squarespace's mission is to provide creative tools that help anyone give a voice to their ideas - from designers and engineers who create web and mobile experiences, to anyone putting a website together for the first time.<br>
-&bull; Developed models to segment commerce users in order to provide them with relevant and targeted product features<br>
-&bull; Created models to predict probability of subscription given a user’s behavior patterns<br>
-&bull; Developed churn prediction and retention models in order to understand customer LTV (Lifetime Value)<br>
-&bull; Performed time-series analysis on consumer trial and subscription patterns<br>
-&bull; Created outlier detection alert system for Analytics team<br>
-&bull; Developed Bayesian A/B testing framework<br>
-&bull; Used d3.js to create internal, real time dashboards<br>
-&bull; Analyzed and suggested which A/B tests to run in order to inform Product and Design decisions<br>
-&bull; Mentored junior Analytics team and led technical knowledge sharing sessions<br>
+<ul>
+<li>Developed models to segment commerce users in order to provide them with relevant and targeted product features<br>
+<li>Created models to predict probability of subscription given a user’s behavior patterns<br>
+<li>Developed churn prediction and retention models in order to understand customer LTV (Lifetime Value)<br>
+<li>Performed time-series analysis on consumer trial and subscription patterns<br>
+<li>Created outlier detection alert system for Analytics team<br>
+<li>Developed Bayesian A/B testing framework<br>
+<li>Used d3.js to create internal, real time dashboards<br>
+<li>Analyzed and suggested which A/B tests to run in order to inform Product and Design decisions<br>
+<li>Mentored junior Analytics team and led technical knowledge sharing sessions<br>
+</ul>
 <br>
 <strong>Metropolitan Telecommunications</strong> <span>Jan 2013 - May 2013</span>  
 <em>Data Scientist Consultant</em> <span>New York, New York</span>  
 
 MetTel is a rapidly growing telecommunications company servicing enterprise-sized clients throughout the U.S.<br>
-&bull; Performed statistical and data-driven analysis, and provided recommendations for large, national clients<br>
-&bull; Conducted and established hypothesis tests, multivariate regression analysis, text-based analysis in order to optimize client spend and increase customer retention<br>
-&bull; Developed algorithms and predictive models to solve critical business problems leading to increased revenue and more efficient allocation of resources, for MetTel and our clients<br>
-&bull; Provided predictive analytics to help client’s manage their business flow, such as budget-to-actual forecasts and monthly expense variances, including outlier detection<br>
-&bull; Created internal dashboards and reporting for senior management<br>
+<ul>
+<li>Performed statistical and data-driven analysis, and provided recommendations for large, national clients<br>
+<li>Conducted and established hypothesis tests, multivariate regression analysis, text-based analysis in order to optimize client spend and increase customer retention<br>
+<li>Developed algorithms and predictive models to solve critical business problems leading to increased revenue and more efficient allocation of resources, for MetTel and our clients<br>
+<li>Provided predictive analytics to help client’s manage their business flow, such as budget-to-actual forecasts and monthly expense variances, including outlier detection<br>
+<li>Created internal dashboards and reporting for senior management<br>
+</ul>
 <br>
 <strong>HowAboutWe</strong> <span>Sep 2012 - Jan 2013</span>  
 <em>Data Consultant</em> <span>Brooklyn, New York</span>  
 
 HowAboutWe is an Internet dating startup helping users find others who share similar interests and activities.<br>
-&bull; Completed analysis project alongside Senior Data Scientist to determine the impact of answering questions when a user registers for the site<br>
-&bull; Analysis resulted in a deeper understanding of the correlation between user behavior and profile completion informing a series of A/B tests that significantly increased profile information, ultimately leading to users going on more successful dates<br>
+<ul>
+<li>Completed analysis project alongside Senior Data Scientist to determine the impact of answering questions when a user registers for the site<br>
+<li>Analysis resulted in a deeper understanding of the correlation between user behavior and profile completion informing a series of A/B tests that significantly increased profile information, ultimately leading to users going on more successful dates<br>
+</ul>
 <br>
 <strong>Ernst &amp; Young</strong> <span>Sep 2010 - Jan 2013</span>  
 <em>Consultant, Financial Services Office</em> <span>New York, New York</span>  
 
 Ernst &amp; Young is a “Big 4” professional services and accounting firm.<br>
-&bull; Provided financial consulting services for large and mid-size banks and insurance companies<br>
-&bull; Created models, forecasts and budgets<br>
-&bull; Performed data analytics on large and complex customer databases identifying trends and sources of variance from expected assumptions. Communicated results and recommendations to clients<br>
-&bull;Assisted companies with understanding their revenue via scenario analysis and sensitivity testing financial variables and corresponding impact to earnings<br>
-&bull; Managed complex and large projects, including budgeting hours, prioritizing milestones &amp; reporting to management<br>
+<ul>
+<li>Provided financial consulting services for large and mid-size banks and insurance companies<br>
+<li>Created models, forecasts and budgets<br>
+<li>Performed data analytics on large and complex customer databases identifying trends and sources of variance from expected assumptions. Communicated results and recommendations to clients<br>
+<li>Assisted companies with understanding their revenue via scenario analysis and sensitivity testing financial variables and corresponding impact to earnings<br>
+<li>Managed complex and large projects, including budgeting hours, prioritizing milestones &amp; reporting to management<br>
+</ul>
 <br>
 <strong>Munich Reinsurance</strong> <span> Mar 2007 - Aug 2010  
 <em>Actuary, Individual Life Insurance</em> Toronto, Ontario
 
 Munich Reinsurance is one of the world’s leading life and health reinsurers, and the largest reinsurer operating in Canada.<br>
-&bull;Created complex projection models for insurance companies<br>
-&bull;Served as client liaison for the largest life insurers in Canada<br>
-
+<ul>
+<li>Created complex projection models for insurance companies<br>
+<li>Served as client liaison for the largest life insurers in Canada<br>
+</ul>
 ___
 <h3>Education and Achievements</h3>
-&bull;Duke University, MSS Candidate Aug 2015 - Present
+<li>Duke University, MSS Candidate Aug 2015 - Present
 Statistical Science
 University of Toronto, Honors, Bachelor of Science Sept 2002 – Dec 2006
 Actuarial Science and Statistics
@@ -71,11 +82,14 @@ Fellow of the Society of Actuaries, December 2009
 
 ___
 <h3>Extracurricular Activities</h3>
-● Active blogger - www.ilanthedataman.com
-Covering Data Science topics including Machine Learning and programming in R and Python
-● Regular presenter at Data Meetups
-● Avid marathoner and triathlete, having completed multiple Half Iron Men and 100+ mile bicycle races
-● Avid and active real estate investor; currently serving as treasurer and accountant for real estate partnership
-● Interests: traveling, cooking, live music, reading, philosophy and current events
-
+<ul>
+<li>Active blogger - www.ilanthedataman.com. 
+<ul>
+<li>Covering Data Science topics including Machine Learning and programming in R and Python
+</ul>
+<li>Regular presenter at Data Meetups
+<li>Avid marathoner and triathlete, having completed multiple Half Iron Men and 100+ mile bicycle races
+<li>Avid and active real estate investor; currently serving as treasurer and accountant for real estate partnership
+<li>Interests: traveling, cooking, live music, reading, philosophy and current events
+</ul>
 
