@@ -1,6 +1,6 @@
 # Ilan Man
-1000 North Duke St. <li>Durham, NC <li>27701<br>
-917 941 7323 <li>ilan.man@gmail.com<br>
+1000 North Duke St. &bull;Durham, NC &bull;27701<br>
+917 941 7323 &bull;ilan.man@gmail.com<br>
 <a href="http://www.ilanman.io">www.ilanman.io</a><br>
 ___
 <h3>Professional Profile</h3>
