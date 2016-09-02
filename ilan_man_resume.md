@@ -15,7 +15,7 @@ ___
 ___
 <h3>Professional Experience</h3>
 <strong>Automated Insights</strong> &nbsp;&nbsp; May 2016 - Aug 2016  
-<em>Data Scientist</em> &nbsp;&nbsp; Durham, North Carolina  
+<em>Data Scientist</em> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  Durham, North Carolina  
 
 Automated Insights is a Durham based startup focusing on automating reports and articles using Machine Learning and Natural Language Processing tools.
 <ul>
@@ -34,20 +34,19 @@ Automated Insights is a Durham based startup focusing on automating reports and 
 </ul>
 
 <br>
-<strong>Squarespace</strong> &nbsp;&nbsp; May 2013 - Jul 2015  
+<strong>Squarespace</strong> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2013 - Jul 2015  
 <em>Manager, Data Science</em> &nbsp;&nbsp; New York, New York 
 
 Squarespace's mission is to provide creative tools that help anyone give a voice to their ideas - from designers and engineers who create web and mobile experiences, to anyone putting a website together for the first time.<br>
 <ul>
-<li>Advanced Modeling
+<li>Advanced Modeling and Machine Learning
  <ul>
- <li>Developed models to segment commerce users in order to provide them with relevant and targeted product features<br>
- <li>Created models to predict probability of subscription given a user’s behavior patterns<br>
+ <li>Developed models to cluster commerce users in order to better provide them with relevant and targeted product features<br>
+ <li>Created classification model to predict probability of churn or subscription given a user’s behavior patterns<br>
  </ul>
-<li>Statistical modeling and analytics
+<li>Statistics and Analytics
  <ul>
  <li>Developed Bayesian A/B testing framework. A/B tests informed Product and Marketing decisions.<br>
- <li>Developed churn prediction and retention models in order to understand customer LTV (Lifetime Value)<br>
  <li>Performed time-series analysis on trials and subscription patterns<br>
  <li>Created outlier detection alert system for Analytics team<br>
  </ul>
@@ -56,7 +55,7 @@ Squarespace's mission is to provide creative tools that help anyone give a voice
 </ul>
 <br>
 <strong>Metropolitan Telecommunications</strong> &nbsp;&nbsp; Jan 2013 - May 2013  
-<em>Data Scientist Consultant</em> &nbsp;&nbsp; New York, New York  
+<em>Data Scientist Consultant</em> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  New York, New York  
 
 MetTel is a rapidly growing telecommunications company servicing enterprise-sized clients throughout the U.S.<br>
 <ul>
@@ -65,7 +64,7 @@ MetTel is a rapidly growing telecommunications company servicing enterprise-size
 <li>Developed algorithms and predictive models to solve critical business problems leading to increased revenue and more efficient allocation of resources, for MetTel and our clients<br>
 </ul>
 <br>
-<strong>HowAboutWe</strong> &nbsp;&nbsp; Sep 2012 - Jan 2013  
+<strong>HowAboutWe</strong> &nbsp;&nbsp; &nbsp; &nbsp; Sep 2012 - Jan 2013  
 <em>Data Consultant</em> &nbsp;&nbsp; Brooklyn, New York  
 
 HowAboutWe is an Internet dating startup helping users find others who share similar interests and activities.<br>
@@ -74,7 +73,7 @@ HowAboutWe is an Internet dating startup helping users find others who share sim
 <li>Analysis resulted in a deeper understanding of the correlation between user behavior and profile completion informing a series of A/B tests that significantly increased profile information, ultimately leading to users going on more successful dates<br>
 </ul>
 <br>
-<strong>Ernst &amp; Young</strong> &nbsp;&nbsp; Sep 2010 - Jan 2013  
+<strong>Ernst &amp; Young</strong> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Sep 2010 - Jan 2013  
 <em>Consultant, Financial Services Office</em> &nbsp;&nbsp; New York, New York  
 
 Ernst &amp; Young is a “Big 4” professional services and accounting firm.<br>
@@ -84,7 +83,7 @@ Ernst &amp; Young is a “Big 4” professional services and accounting firm.<br
 <li>Assisted companies with understanding their revenue via scenario analysis and sensitivity testing financial variables and corresponding impact to earnings<br>
 </ul>
 <br>
-<strong>Munich Reinsurance</strong> &nbsp;&nbsp; Mar 2007 - Aug 2010  
+<strong>Munich Reinsurance</strong> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mar 2007 - Aug 2010  
 <em>Actuary, Individual Life Insurance</em> &nbsp;&nbsp; Toronto, Ontario  
 
 Munich Reinsurance is one of the world’s leading life and health reinsurers, and the largest reinsurer operating in Canada.<br>
@@ -94,7 +93,7 @@ Munich Reinsurance is one of the world’s leading life and health reinsurers, a
 </ul>
 ___
 <h3>Teaching Experience</h3>
-<strong>Girl Develop it</strong> &nbsp;&nbsp; Jul 2016  
+<strong>Girl Develop it</strong> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Jul 2016  
 <em>Data Science Instructor</em> &nbsp;&nbsp; Durham, North Carolina  
 
 Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development through in-person classes.  
@@ -111,11 +110,11 @@ Girl Develop It is a nonprofit organization that exists to provide affordable an
 ___
 <h3>Education and Achievements</h3>
 <ul>
-<li>Duke University, MSS Candidate &nbsp;&nbsp; Aug 2015 - Present
+<li>Duke University, MSS Candidate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Aug 2015 - Present
  <ul>
  <li>Statistical Science
  </ul>
-<li>University of Toronto, Honors, Bachelor of Science &nbsp;&nbsp; Sept 2002 - Dec 2006
+<li>University of Toronto, Honors, Bachelor of Science &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   Sept 2002 - Dec 2006
  <ul>
  <li>Actuarial Science and Statistics
  </ul>
