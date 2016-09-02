@@ -75,13 +75,13 @@ ___
 <h3>Education and Achievements</h3>
 <ul>
 <li>Duke University, MSS Candidate &nbsp;&nbsp; Aug 2015 - Present
-<ul>
-<li>Statistical Science
-</ul>
-<li>University of Toronto, Honors, Bachelor of Science &nbsp;&nbsp; Sept 2002 – Dec 2006
-<ul>
-<li>Actuarial Science and Statistics
-</ul>
+ <ul>
+ <li>Statistical Science
+ </ul>
+<li>University of Toronto, Honors, Bachelor of Science &nbsp;&nbsp; Sept 2002 - Dec 2006
+ <ul>
+ <li>Actuarial Science and Statistics
+ </ul>
 <li>Fellow of the Canadian Institute of Actuaries, April 2011
 <li>Fellow of the Society of Actuaries, December 2009
 </ul>
@@ -89,9 +89,9 @@ ___
 <h3>Extracurricular Activities</h3>
 <ul>
 <li>Active blogger - www.ilanthedataman.com. 
-<ul>
-<li>Covering Data Science topics including Machine Learning and programming in R and Python
-</ul>
+ <ul>
+ <li>Covering Data Science topics including Machine Learning and programming in R and Python
+ </ul>
 <li>Regular presenter at Data Meetups
 <li>Avid marathoner and triathlete, having completed multiple Half Iron Men and 100+ mile bicycle races
 <li>Avid and active real estate investor; currently serving as treasurer and accountant for real estate partnership
