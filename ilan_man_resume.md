@@ -121,7 +121,7 @@ Girl Develop It is a nonprofit organization that exists to provide affordable an
 <li>Text Analysis: Analyzing tweet sentiment, string methods, basic I/O, intro to regex, intro to plotting
 </ul>
 </ul>
-__
+___
 <h3>Extracurricular Activities</h3>
 <ul>
 <li>Active blogger - www.ilanthedataman.com. 
