@@ -8,9 +8,23 @@ Data Science professional with an entrepreneurial drive and technical expertise.
 ___
 <h3>Technical Skills</h3>
 <ul>
-<li>Python (ipython/scipy/pandas/numpy/sci kit learn/matplotlib), R (ggplot2/caret/dplyr), Javascript/d3.js, HTML/CSS, MySQL, MongoDB, Spark<br>
+<li>Python (ipython/scipy/pandas/numpy/sci kit learn/matplotlib), R (ggplot2/caret/dplyr), Javascript/d3.js, HTML/CSS, MySQL, MongoDB, Spark, vim<br>
 <li>Statistical modeling and machine learning<br>
 <li>User acquisition, A/B testing, churn, and customer LTV modeling
+</ul>
+___
+<h3>Education and Achievements</h3>
+<ul>
+<li>Duke University, MSS Candidate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Aug 2015 - Present
+ <ul>
+ <li>Statistical Science
+ </ul>
+<li>University of Toronto, Honors, Bachelor of Science &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   Sept 2002 - Dec 2006
+ <ul>
+ <li>Actuarial Science and Statistics
+ </ul>
+<li>Fellow of the Canadian Institute of Actuaries, April 2011
+<li>Fellow of the Society of Actuaries, December 2009
 </ul>
 ___
 <h3>Professional Experience</h3>
@@ -107,21 +121,7 @@ Girl Develop It is a nonprofit organization that exists to provide affordable an
 <li>Text Analysis: Analyzing tweet sentiment, string methods, basic I/O, intro to regex, intro to plotting
 </ul>
 </ul>
-___
-<h3>Education and Achievements</h3>
-<ul>
-<li>Duke University, MSS Candidate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Aug 2015 - Present
- <ul>
- <li>Statistical Science
- </ul>
-<li>University of Toronto, Honors, Bachelor of Science &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   Sept 2002 - Dec 2006
- <ul>
- <li>Actuarial Science and Statistics
- </ul>
-<li>Fellow of the Canadian Institute of Actuaries, April 2011
-<li>Fellow of the Society of Actuaries, December 2009
-</ul>
-___
+__
 <h3>Extracurricular Activities</h3>
 <ul>
 <li>Active blogger - www.ilanthedataman.com. 
