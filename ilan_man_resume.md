@@ -124,7 +124,7 @@ Girl Develop It is a nonprofit organization that exists to provide affordable an
 ___
 <h3>Extracurricular Activities</h3>
 <ul>
-<li>Active blogger - www.ilanthedataman.com. 
+<li>Active blogger - www.ilanman.io
  <ul>
  <li>Covering Data Science topics including Machine Learning and programming in R and Python
  </ul>
