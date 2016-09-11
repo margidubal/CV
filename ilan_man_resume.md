@@ -4,11 +4,11 @@
 <a href="http://www.ilanman.io">www.ilanman.io</a><br>
 ___
 <h3>Professional Profile</h3>
-Data Science professional with an entrepreneurial drive and technical expertise. Expert in Python, R, MySQL and data analysis, proficient in Javascript. Acute ability to interpret and analyze statistical trends. Avid blogger and presenter at technical, industry meet-ups. Former consultant with excellent communication and presentation skills. Self-starter who loves seeing projects through to the end. Thrives in challenging, dynamic and unstructured environments.
+Data Science professional with an entrepreneurial drive and technical expertise. Expert in advanced statistical modeling and machine learning. Able to learn quickly and independently. Comfortable extracting useful insights from large, unstructured data sets. Proficient in Python, R, MySQL and data analysis. Avid blogger and presenter at technical, industry meet-ups. Former consultant with excellent communication and presentation skills. Self-starter who loves seeing projects through to the end. 
 ___
 <h3>Technical Skills</h3>
 <ul>
-<li>Python (ipython/scipy/pandas/numpy/sci kit learn/matplotlib), R (ggplot2/caret/dplyr), Javascript/d3.js, HTML/CSS, MySQL, MongoDB, Spark, vim<br>
+<li>Python (ipython/scipy/pandas/numpy/sci kit learn/matplotlib), R (ggplot2/caret/dplyr), Javascript/d3.js, Apache Spark, MongoDB, MySQL, vim, HTML/CSS<br>
 <li>Statistical modeling and machine learning<br>
 <li>User acquisition, A/B testing, churn, and customer LTV modeling
 </ul>
