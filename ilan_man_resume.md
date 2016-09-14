@@ -4,12 +4,12 @@
 <a href="http://www.ilanman.io">www.ilanman.io</a><br>
 ___
 <h3>Professional Profile</h3>
-Data Science professional with an entrepreneurial drive and technical expertise. Expert in advanced statistical modeling and machine learning. Able to learn quickly and independently. Comfortable extracting useful insights from large, unstructured data sets. Proficient in Python, R, MySQL and data analysis. Avid blogger and presenter at technical, industry meet-ups. Former consultant with excellent communication and presentation skills. Self-starter who loves seeing projects through to the end. 
+Data Scientist with technical expertise in advanced statistical modeling and machine learning, Python, R, MySQL and data analysis. Comfortable extracting useful insights from large, unstructured data sets. Avid blogger and presenter at technical, industry meet-ups. Former consultant with excellent communication and presentation skills. Entrepreneurial drive with the ability to learn quickly and independently. 
 ___
 <h3>Technical Skills</h3>
 <ul>
 <li>Python (ipython/scipy/pandas/numpy/sci kit learn/matplotlib), R (ggplot2/caret/dplyr), Javascript/d3.js, Apache Spark, MongoDB, MySQL, vim, HTML/CSS<br>
-<li>Statistical modeling and machine learning<br>
+<li>Statistical/Bayesian modeling and machine learning
 <li>User acquisition, A/B testing, churn, and customer LTV modeling
 </ul>
 ___
@@ -23,7 +23,6 @@ ___
  <ul>
  <li>Actuarial Science and Statistics
  </ul>
-<li>Fellow of the Canadian Institute of Actuaries, April 2011
 <li>Fellow of the Society of Actuaries, December 2009
 </ul>
 ___
@@ -31,19 +30,25 @@ ___
 <strong>Automated Insights</strong> &nbsp;&nbsp; May 2016 - Aug 2016  
 <em>Data Scientist</em> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  Durham, North Carolina  
 
-Automated Insights is a Durham based startup focusing on automating reports and articles using Machine Learning and Natural Language Processing tools.
+Automated Insights automates reports and articles using Machine Learning and Natural Language Processing tools.
 <ul>
-<li>Started Analytics team
+<li>Advanced Modeling and Machine Learning
  <ul>
- <li>Created internal dashboards tracking user subscriptions, churns and A/B testing
- <li>Enabled marketing and sales team to identify key metrics for success and communicated those throughout the company
- <li>Performed the first cohort analysis for the company, and built retention models
- <li>Implemented an A/B testing framework, including multi-armed bandit algorithms
- <li>Offered novel insights on user behavior using machine learning models
+ <li>Implemented a Bayesian A/B testing framework and multi-armed bandit algorithms
+ <li>Offered insights on user behavior using machine learning models, including time to activation and user engagement 
  </ul>
-<li>Performed Natural Language Processing and Generation on the Wordsmith product
+<li>Natural Language Processing and Generation
  <ul>
- <li>Analyzed template generation engine for patterns and insights
+ <li>Modeled NLP tool as a graph structure, providing the ability to analyze sentence structure, synonym usage and logic branching for all templates a user can generate
+ </ul>
+<li>Statistics and Analytics
+ <ul>
+ <li>Prototyped internal dashboards tracking user subscriptions, cohorts analysis, churns and testing results
+ <li>Facilitated identification of key metrics for success with marketing and sales teams
+ </ul>
+<li>Leadership
+ <ul>
+<li>Led, trained and mentored 3 person Analytics team
  </ul>
 </ul>
 
@@ -51,31 +56,36 @@ Automated Insights is a Durham based startup focusing on automating reports and 
 <strong>Squarespace</strong> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2013 - Jul 2015  
 <em>Manager, Data Science</em> &nbsp;&nbsp; New York, New York 
 
-Squarespace's mission is to provide creative tools that help anyone give a voice to their ideas - from designers and engineers who create web and mobile experiences, to anyone putting a website together for the first time.<br>
+Squarespace provides creative tools that help anyone give a voice to their ideas.
 <ul>
 <li>Advanced Modeling and Machine Learning
  <ul>
- <li>Developed models to cluster commerce users in order to better provide them with relevant and targeted product features<br>
- <li>Created classification model to predict probability of churn or subscription given a user’s behavior patterns<br>
- </ul>
+ <li>Developed models to cluster commerce users to better provide them with relevant and targeted features
+ <li>Created classification model to predict probability of churn or subscription given a user’s behavior patterns
 <li>Statistics and Analytics
- <ul>
- <li>Developed Bayesian A/B testing framework. A/B tests informed Product and Marketing decisions.<br>
- <li>Performed time-series analysis on trials and subscription patterns<br>
- <li>Created outlier detection alert system for Analytics team<br>
  </ul>
-<li>Used d3.js to create internal, real time dashboards<br>
-<li>Mentored junior Analytics team and led technical knowledge sharing sessions<br>
+ <ul>
+ <li>Developed Bayesian A/B testing framework, informing Product and Marketing decisions.
+ <li>Performed time-series analysis on trials and subscription patterns, resulting in outlier detection and forecasting models
 </ul>
+<li>Data Visualization
+ <ul>
+ <li>Used d3.js to create internal, real time dashboards to display various commerce user metrics
+ </ul>
+<li>Leadership
+ <ul>
+ <li>Mentored junior Analytics team and led technical knowledge sharing sessions on topics like Naive Bayes and Statistics fundamentals
+ </ul>
+</ul>
+
 <br>
 <strong>Metropolitan Telecommunications</strong> &nbsp;&nbsp; Jan 2013 - May 2013  
 <em>Data Scientist Consultant</em> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  New York, New York  
 
 MetTel is a rapidly growing telecommunications company servicing enterprise-sized clients throughout the U.S.<br>
 <ul>
-<li>Performed statistical and data-driven analysis, and provided recommendations for large, national clients<br>
-<li>Conducted and established hypothesis tests, multivariate regression analysis, text-based analysis in order to optimize client spend and increase customer retention<br>
-<li>Developed algorithms and predictive models to solve critical business problems leading to increased revenue and more efficient allocation of resources, for MetTel and our clients<br>
+<li>Performed statistical and data-driven analysis, and provided recommendations for large, national clients
+<li>Conducted hypothesis tests, regression and text analysis, to optimize client spend and increase retention
 </ul>
 <br>
 <strong>HowAboutWe</strong> &nbsp;&nbsp; &nbsp; &nbsp; Sep 2012 - Jan 2013  
@@ -92,10 +102,10 @@ HowAboutWe is an Internet dating startup helping users find others who share sim
 
 Ernst &amp; Young is a “Big 4” professional services and accounting firm.<br>
 <ul>
-<li>Provided financial consulting services for large and mid-size banks and insurance companies<br>
-<li>Performed data analytics on large and complex customer databases identifying trends and sources of variance from expected assumptions. Communicated results and recommendations to clients<br>
-<li>Assisted companies with understanding their revenue via scenario analysis and sensitivity testing financial variables and corresponding impact to earnings<br>
+<li>Provided financial consulting services for large and mid-size banks and insurance companies
+<li>Performed data analytics on large and complex customer databases and communicated with clients
 </ul>
+
 <br>
 <strong>Munich Reinsurance</strong> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mar 2007 - Aug 2010  
 <em>Actuary, Individual Life Insurance</em> &nbsp;&nbsp; Toronto, Ontario  
@@ -110,16 +120,9 @@ ___
 <strong>Girl Develop it</strong> &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Jul 2016  
 <em>Data Science Instructor</em> &nbsp;&nbsp; Durham, North Carolina  
 
-Girl Develop It is a nonprofit organization that exists to provide affordable and judgment-free opportunities for women interested in learning web and software development through in-person classes.  
+Girl Develop It provides affordable opportunities for women interested in learning web and software development.
 <ul>
-<li>Taught a 4 week Python for Data Science class, covering many technical topics motivated by real data sets.
-<li>Click <a href="https://github.com/ilanman/gdi">here</a> for a link to the curriculum. Topics covered include:
-<ul>
-<li>Python basics: lists, dictionaries, list comprehension, basic matrix algebra
-<li>Functions: Higher order functions (map, filter, reduce), recursion, lambda functions
-<li>Numpy: basic linear regression, linear algebra (inverses, transposes), numpy methods
-<li>Text Analysis: Analyzing tweet sentiment, string methods, basic I/O, intro to regex, intro to plotting
-</ul>
+<li>Taught a 4 week Python for Data Science class, covering topics including Python basic, Functions, Numpy, Linear Regression and Text Analysis motivated by real data sets. Click <a href="https://github.com/ilanman/gdi">here</a> for the curriculum. 
 </ul>
 ___
 <h3>Extracurricular Activities</h3>
