@@ -62,8 +62,8 @@ Squarespace provides creative tools that help anyone give a voice to their ideas
  <ul>
  <li>Developed models to cluster commerce users to better provide them with relevant and targeted features
  <li>Created classification model to predict probability of churn or subscription given a user’s behavior patterns
-<li>Statistics and Analytics
  </ul>
+<li>Statistics and Analytics
  <ul>
  <li>Developed Bayesian A/B testing framework, informing Product and Marketing decisions.
  <li>Performed time-series analysis on trials and subscription patterns, resulting in outlier detection and forecasting models
